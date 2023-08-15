@@ -1,7 +1,7 @@
 Trabalho independente 1
 Criar repositório no Github
 Git surgiu da necessidade de armazenar o kernel do Linux. 
-Inicialmente o Bit Keeper fazia isso, posteriomente o Git foi desenvolvido pelo criador do Linus para amrazenar código e o trabalho coletivo de desenvolvimento.
+Inicialmente o Bit Keeper fazia isso, posteriomente o Git foi desenvolvido pelo criador do Linux para armazenar código e o trabalho coletivo de desenvolvimento.
 O Github é um serviço Web compartilhado que utiliza o Git para versionamento.
 É um local da Web onde você consegue armazenar os seus projetos versionados no Git.
 Todos podem ver o seu código.
